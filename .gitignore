@@ -1,0 +1,28 @@
+# Build directories
+target/
+bin/
+obj/
+
+# IDE files
+.vs/
+*.user
+*.suo
+*.cache
+*.exe
+*.pdb
+*.jar
+
+# Temporary files
+*.tmp
+*~
+*.swp
+
+# Maven
+.mvn/
+
+Lib_Auto_LDPlayer/bin/Release/Release.zip
+Lib_Auto_LDPlayer/nuget.exe
+# *.nuspec
+*.nupkg
+Lib_Auto_LDPlayer/bin/Release
+Lib_Auto_LDPlayer/bin/Debug
